@@ -1,0 +1,12 @@
+{
+    "Sobre": "Desenvolvedor com experiencia em sistemas escolares, academicos, administrativos e financeiro usando diversas linguagens, IDEs e controles de projetos, como os descritos abaixo:",
+    "LinguagensBackEnd": "C#, VB, ASP.NET ",
+    "LinguagensFrontEnd": "HTML, CSS, JS, LESS, TypeScript ",
+    "Ide": "Visual Studio, VS Code",
+    "BancoDeDados": "SQL Server",
+    "FrameworksBackEnd": ".NET, ASP.NET MVC, ASP.NET WEB API RestFul, ADO.NET, Linq to sql, Entity Framework, WebForm, WPF, UWP, RT, Silverlight",
+    "FrameworksFrontEnd": "Angular 1 e 2, JQuery, RequireJS, NPM, Gulp, Grunt, Bootstrap",
+    "Mobile": "Xamarin, Ionic 1 e 2",
+    "Versionadores": "TFS, Git, SVN",
+    "ControleProjeto": "Jira, Trello, MS Project, Asana, Time Doctor"
+}
