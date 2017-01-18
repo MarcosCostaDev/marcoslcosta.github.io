@@ -5,8 +5,8 @@
     "Ide": "Visual Studio, VS Code",
     "BancoDeDados": "SQL Server",
     "FrameworksBackEnd": ".NET, ASP.NET MVC, ASP.NET WEB API RestFul, ADO.NET, Linq to sql, Entity Framework, WebForm, WPF, UWP, RT, Silverlight",
-    "FrameworksFrontEnd": "Angular 1 e 2, JQuery, RequireJS, NPM, Gulp, Grunt, Bootstrap",
-    "Mobile": "Xamarin, Ionic 1 e 2",
+    "FrameworksFrontEnd": "Angular 1, JQuery, RequireJS, NPM, Gulp, Grunt, Bootstrap",
+    "Mobile": "Xamarin, Ionic 1",
     "Versionadores": "TFS, Git, SVN",
     "ControleProjeto": "Jira, Trello, MS Project, Asana, Time Doctor"
 }
