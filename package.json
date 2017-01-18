@@ -1,10 +1,13 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
+  "name": "Marcos Costa",
+  "title": "Marcos Costa - FullStack Developer",
   "version": "3.3.7+1",
   "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "author": "Marcos Costa",
   "license": {
+    
+  },
+  "scripts":{
     "gulp": "gulp"
   },
   "devDependencies": {

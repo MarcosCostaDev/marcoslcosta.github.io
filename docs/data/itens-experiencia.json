@@ -1,0 +1,34 @@
+{
+    "portifolio": [
+        {
+            "id": "1",
+            "local": "Fortaleza/Ceará/Brasil",
+            "periodo": "24/11/2015 até os dias atuais.",
+            "foto": "img/experiencia/logo-farias-brito.png",
+            "titulo": "Programador Pleno",
+            "empresa": "Organização Educacional Fárias Brito",
+            "site": "http://www.fariasbrito.com.br/",
+            "descricao": "Realizando manutenção e desenvolvimento de sistemas educacionais online, focado nos sistemas financeiros da instituição, desde aplicações Windows Form, WPF como também aplicações que usam tecnologias como ASP.NET MVC, HTML, CSS, JAVASCRIPT, JQUERY, entre outros frameworks JavaScript. Trabalhando com diferentes versões do Visual Studio, desde a versão 2005 até a 2013.  Trabalhando também com a persistência de dados elaborando consultas para o SGBDs como SQL SERVER sempre com a preocupação da integridade da informação. Também criando relatórios no Microsoft Report Viewer 2005 (Microsoft Business Intelligence) e também TOTVS RM Report, trabalhando sob o banco de dados do TOTVS (Corpore). Lidando também com atendimento e suporte ao cliente. "
+        },
+        {
+            "id": "2",
+            "local": "Fort Lauderdale/Florida/USA",
+            "periodo": "2017",
+            "foto": "img/experiencia/logo-easy.png",
+            "titulo": "Programador",
+            "empresa": "Easy communication & Technology",
+            "site": "https://www.easycomtec.com",
+            "descricao": "Trabalhando como freelancer homeofficer, auxiliando com a criação/desenvolvimento de sistemas da empresa."
+        },
+        {
+            "id": "3",
+            "local": "Fortaleza/Ceará/Brasil",
+            "periodo": "07/01/2013 até 17/10/2015 ",
+            "foto": "img/experiencia/logo-casa-villar.png",
+            "empresa": "Casa Villar Software sob medida",
+            "titulo": "Programador Junior",
+            "site": "http://www.casavillar.com.br/",
+            "descricao": "Realizando manutenção e desenvolvimento de sistemas para Escola, fabrica de tecidos e fios, manutenção predial, oficina e por ultimo sistema de controle de comissões. Trabalhando com desenvolvimento de aplicações web com as linguagens ASP.NET WEB FORMS / VB / C# do framework .Net (4.0, 4.5) utilizando a ferramenta geração de interface e modelo Iron Speed com desenvolvimento e personalização na IDE Visual Studio, e usando o serviço de relatório do Report Service (Microsoft Business Intelligence). Administrando banco de dados com SQL Server. Atuando com desenvolvimento de aplicativos para Android com Xamarin e C#, também adquirir noções de designer responsivo para aplicações web."
+        }
+    ]
+}
