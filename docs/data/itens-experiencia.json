@@ -11,16 +11,6 @@
             "descricao": "Realizando manutenção e desenvolvimento de sistemas educacionais online, focado nos sistemas financeiros da instituição, desde aplicações Windows Form, WPF como também aplicações que usam tecnologias como ASP.NET MVC, HTML, CSS, JAVASCRIPT, JQUERY, entre outros frameworks JavaScript. Trabalhando com diferentes versões do Visual Studio, desde a versão 2005 até a 2013.  Trabalhando também com a persistência de dados elaborando consultas para o SGBDs como SQL SERVER sempre com a preocupação da integridade da informação. Também criando relatórios no Microsoft Report Viewer 2005 (Microsoft Business Intelligence) e também TOTVS RM Report, trabalhando sob o banco de dados do TOTVS (Corpore). Lidando também com atendimento e suporte ao cliente. "
         },
         {
-            "id": "2",
-            "local": "Fort Lauderdale/Florida/USA",
-            "periodo": "2017",
-            "foto": "img/experiencia/logo-easy.png",
-            "titulo": "Programador",
-            "empresa": "Easy communication & Technology",
-            "site": "https://www.easycomtec.com",
-            "descricao": "Trabalhando como freelancer homeofficer, auxiliando com a criação/desenvolvimento de sistemas da empresa."
-        },
-        {
             "id": "3",
             "local": "Fortaleza/Ceará/Brasil",
             "periodo": "07/01/2013 até 17/10/2015 ",
