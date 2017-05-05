@@ -5,7 +5,7 @@
     "Ide": "Visual Studio, VS Code",
     "BancoDeDados": "SQL Server",
     "FrameworksBackEnd": ".NET, ASP.NET MVC/WEB API, ADO.NET/Entity Framework",
-    "FrameworksFrontEnd": "Angular, JS/ECMAScript, Ionic",
+    "FrameworksFrontEnd": "Angular, Typescript/JavaScript/ECMAScript, Ionic",
     "Mobile": "Xamarin, Ionic",
     "Versionadores": "TFS, Git, SVN",
     "ControleProjeto": "Jira, Trello, MS Project"
